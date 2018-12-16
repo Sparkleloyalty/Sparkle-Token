@@ -65,11 +65,13 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Min ETH to invest per one contribution: `1 ETH`
 
 #### Bonus Structure
-| AMOUNT | ETH | BONUS | SPRKL PER ETH |
-|--------|-----|-------|---------------|
-| 5-10   | ETH | 10%   | 417.457305496 |
-| 11-20  | ETH | 15%   | 436.432637564 |
-| 21+    | ETH | 20%   | 455.407969632 |
+| AMOUNT | ETH | BONUS | SPRKL RATE + BONUS  |
+|--------|-----|-------|---------------      |
+| 0.5+   | ETH | 0%    | 200 SPRKL           |
+| 1+     | ETH | 0%    | 400 SPRKL           |
+| 5+     | ETH | 10%   | 2200  SPRKL         |
+| 11+    | ETH | 15%   | 5060  SPRKL         |
+| 21+    | ETH | 20%   | 10080 SPRKL         |
 
 ### Bonused Mainsale 
 * Start date & time in UTC: `2018-11-25T12:00:00Z` 
@@ -79,11 +81,13 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Min ETH to invest per one contribution: `0.5 ETH`
 
 #### Bonus Structure
-| AMOUNT | ETH | BONUS | SPRKL PER ETH |
-|--------|-----|-------|---------------|
-| 05-10  | ETH | 5%    | 398.481973428 |
-| 11-20  | ETH | 7%    | 406.0721062552|
-| 21+    | ETH | 10%   | 417.457305496 |
+| AMOUNT | ETH | BONUS | SPRKL RATE + BONUS  |
+|--------|-----|-------|---------------      |
+| 0.5+   | ETH | 0%    | 200  SPRKL          |
+| 1+     | ETH | 0%    | 400  SPRKL          |
+| 5+     | ETH | 5%    | 2100 SPRKL          |
+| 11+    | ETH | 7%    | 4708 SPRKL          |
+| 21+    | ETH | 10%   | 9240 SPRKL          |
 
 ### Regular Mainsale
 
@@ -94,9 +98,13 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Min ETH to invest per one contribution: `0.5 ETH`
 
 #### Bonus Structure
-| AMOUNT | ETH | BONUS | SPRKL PER ETH |
-|--------|-----|-------|---------------|
-| 0.5    | ETH | 0%    | 400           |
+| AMOUNT | ETH | BONUS | SPRKL RATE + BONUS  |
+|--------|-----|-------|---------------      |
+| 0.5+   | ETH | 0%    | 200  SPRKL          |
+| 1+     | ETH | 0%    | 400  SPRKL          |
+| 5+     | ETH | 0%    | 2000 SPRKL          |
+| 11+    | ETH | 0%    | 4400 SPRKL          |
+| 21+    | ETH | 0%    | 8400 SPRKL          |
 
 
 ### Links
