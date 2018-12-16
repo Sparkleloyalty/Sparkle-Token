@@ -32,15 +32,15 @@ Popular digital assets such as Bitcoin (BTC) and Ether (ETH) are too volatile to
 
 ### Default Conditions
 
-TOKEN  = SPRKL
-1 SPRKL = 0.0025 ETH 
-1 SPRKL = $0.217 USD
-1 SPRKL = $0.192 EUR
-1 SPRKL = $1.50  CNY
-1 SPRKL = $24.62 JPY
-1 SPRKL = $0.30  SGD
-1ETH ~ is 400 SPRKL
-Will be recalculated based on ETH/USD rate at start day.
+* TOKEN  = SPRKL
+* 1 SPRKL = 0.0025 ETH 
+* 1 SPRKL = $0.217 USD
+* 1 SPRKL = $0.192 EUR
+* 1 SPRKL = $1.50  CNY
+* 1 SPRKL = $24.62 JPY
+* 1 SPRKL = $0.30  SGD
+* 1ETH ~ is 400 SPRKL
+* Will be recalculated based on ETH/USD rate at start day.
 
 
 
