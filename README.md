@@ -1,8 +1,15 @@
 ![sprkl](https://user-images.githubusercontent.com/42134382/49962911-759f7200-fecb-11e8-99f2-0485fe304163.png)
 
 
-## Sparkle 
+## Value of Sparkle 
 Sparkle is a decentralized token created on the ethereum network. Sparkle allows a peer to peer computing on a distributed application architecture that partitions tasks or workloads between peers. We understand that with blockchain has a limited number of consumer based products that the community can spend their assets on. There are a variety of reasons for this, but it is mainly merchants who suffer from the lack of underlying architecture to sell goods at a set rate. Sparkle’s prime utility connects the dots between non-monetary items (digital currencies) and automotive-related services (physical product). The value of sparkle lies in the delivery of a service, and its ability to remove market volatility from existing services offered. Sparkle KYC verification serves an important role in verifying the authentication of SPARKLE customers. SPARKLE token is not the only utility being offered, but the ultimate goal is to provide data security and safe access to sparkle resources.
+
+### Impact of mobile apps in today;s world
+As a service provider, our development focus is creating technology that connects users with quality local automotive services. Sparkle leverages the best thing about today's mobile device; the simplicity provided by mobile applications. From ordering a meal to hiring a driver, we all have a list of applications at our fingertips that make life easier. We’ve eliminated time spent searching for a taxi by using services like Lyft which can conveniently take you to your destination, you can order groceries for the week and have them delivered right to your doorstep. It's hard to remember the time when “apps” were viewed as luxury items since mobile applications are now an indispensable tool for both vendors and customers. Mobile applications have become more powerful than ever, their rapid acceptance by consumers globally is used as a benchmark for businesses to ensure upcoming products and tools keep up with the needs of consumers.
+
+### Risks and Vulnerabilities of Merchants Accepting Virtual Currency
+Popular digital assets such as Bitcoin (BTC) and Ether (ETH) are too volatile to be used as everyday currency for businesses. The value of a bitcoin often experiences large fluctuations, rising or falling by as much as 5% in a single day. SPARKLE realizes the importance of removing the current volatility faced with Bitcoin, effectively allowing the business to receive tokens equivalent to USD based on the services offered.
+
 
 ### Token Information
 * Token name: SPARKLE
@@ -23,9 +30,16 @@ Sparkle is a decentralized token created on the ethereum network. Sparkle allows
 ### Default Conditions
 
 TOKEN  = SPRKL
-1 SPRKL ~ is 0.002635 ETH 
-1ETH ~ is 379.50664136 SPRKL
+1 SPRKL = 0.0025 ETH 
+1 SPRKL = $0.217 USD
+1 SPRKL = $0.192 EUR
+1 SPRKL = $1.50  CNY
+1 SPRKL = $24.62 JPY
+1 SPRKL = $0.30  SGD
+1ETH ~ is 400 SPRKL
 Will be recalculated based on ETH/USD rate at start day.
+
+
 
 ### Presale
 
@@ -68,7 +82,7 @@ Will be recalculated based on ETH/USD rate at start day.
 #### Bonus Structure
 | AMOUNT | ETH | BONUS | SPRKL PER ETH |
 |--------|-----|-------|---------------|
-| 0.5    | ETH | 0%    | 379.50664136  |
+| 0.5    | ETH | 0%    | 400           |
 
 
 ### Links
