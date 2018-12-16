@@ -14,6 +14,17 @@ As a service provider, our development focus is creating technology that connect
 Popular digital assets such as Bitcoin (BTC) and Ether (ETH) are too volatile to be used as everyday currency for businesses. The value of a bitcoin often experiences large fluctuations, rising or falling by as much as 5% in a single day. SPARKLE realizes the importance of removing the current volatility faced with Bitcoin, effectively allowing the business to receive tokens equivalent to USD based on the services offered.
 
 
+### Sparkle Token Utility:
+Sparkle Token is an ERC-20 token built using the time-tested Ethereum blockchain. It has been created to be used as a method of transacting value peer-to-peer and to reward customer loyalty within the Sparkle ecosystem.
+
+## *Utilizing Sparkle’s Hybrid Cloud, Sparkle Token on the public network can transact at the speed of Ethereum’s blockchain. (15–20 transactions per second)*
+
+
+### SparkleGOLD Utility:
+Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable cryptocurrency pegged to the US Dollar. Automotive Services will be able to use SparkleGOLD to avoid market volatility that other cryptocurrencies are susceptible to. (BTC, ETH, Sparkle Token, etc.) The conversion rate of Sparkle Token/SparkleGOLD will fluctuate with the market, but the market price of SparkleGOLD will stay pegged to $1 USD, using methods similar to other stable coins in the crypto market. (USDT/USDC/PAX, etc.) SparkleGOLD is backed by a monitored Canadian treasury held with TD Canada Trust which ensures the exact 1:1 ratio is honored when redeemed for in-app purchases or withdrawals.
+
+## *Utilizing Sparkle’s Hybrid Cloud, SparkleGOLD on a private network can mirror the transaction speed of Visa. (24,000 transactions per second)*
+
 ### Token Information
 * Token name: SPARKLE
 * Token Symbol: SPRKL
