@@ -25,6 +25,17 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 
 ## *Utilizing Sparkle’s Hybrid Cloud, SparkleGOLD on a private network can mirror the transaction speed of Visa. (24,000 transactions per second)*
 
+#### Tools
+- [Etherscan: Blockchain Explorer](https://etherscan.io)
+- [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
+
+
+#### Developer Tools
+- [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
+- [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
+- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
+- [Truffle : A development framework for Ethereum](https://github.com/ConsenSys/truffle)
+
 ### Token Information
 * Token name: SPARKLE
 * Token Symbol: SPRKL
@@ -115,4 +126,8 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Facebook - https://www.facebook.com/Sparkleautocare/ 
 * BitcoinTalk - Coming Soon
 * Whitepaper - https://drive.google.com/file/d/1XbX49LBM5O2jQqewCFRD8jqjTPKzvkIE/view
+
+#### Market Information
+
+- [Ethereum on CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
 
