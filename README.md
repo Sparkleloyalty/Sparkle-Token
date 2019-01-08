@@ -54,22 +54,14 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 
 ### Default Conditions
 
-* TOKEN  = SPRKL
-* 1 SPRKL = 0.0025 ETH 
-* 1 SPRKL = $0.217 USD
-* 1 SPRKL = $0.192 EUR
-* 1 SPRKL = $1.50  CNY
-* 1 SPRKL = $24.62 JPY
-* 1 SPRKL = $0.30  SGD
-* 1ETH ~ is 400 SPRKL
-* Will be recalculated based on ETH/USD rate at start day.
+![1 6](https://user-images.githubusercontent.com/42134382/50860116-f37b5f80-1349-11e9-97fa-0912c600cc84.jpg)
 
 
 
 ### Presale
 
-* Start date & time in UTC:  `2018-10-22T12:00:00Z `
-* End date   & time in UTC: `2018-11-23T12:00:00Z`
+* Start date & time in UTC:  `2019-01-10T12:00:00Z `
+* End date   & time in UTC: `2019-01-20T12:00:00Z`
 
 * Min (soft) cap in ETH: `No Soft Cap Set- Token distribution will start immediately 
 * Max (hard) cap in ETH: `69935 ETH` 16.4 m USD
@@ -85,8 +77,8 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 | 21+    | ETH | 20%   | 10080 SPRKL         |
 
 ### Bonused Mainsale 
-* Start date & time in UTC: `2018-11-25T12:00:00Z` 
-* End date   & time in UTC: `2018-12-07T12:00:00Z` 
+* Start date & time in UTC: `2019-01-21T12:00:00Z` 
+* End date   & time in UTC: `2019-02-10T12:00:00Z` 
 * Min (soft) cap in ETH:`No Soft Cap Set- Token distribution will start immediately 
 * Max (hard) cap in ETH: `69935 ETH` 16.4m USD
 * Min ETH to invest per one contribution: `0.5 ETH`
@@ -102,7 +94,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 
 ### Regular Mainsale
 
-* Start date & time in UTC: `2018-12-09T12:00:00Z`
+* Start date & time in UTC: `2019-02-11T12:00:00Z`
 * End date   & time in UTC: `2019-02-28T12:00:00Z`
 * Min (soft) cap in ETH:`No Soft Cap Set- Token distribution will start immediately  
 * Max (hard) cap in ETH: `69935 ETH` 16.4m USD
@@ -124,7 +116,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Reddit - https://www.reddit.com/r/Sparklemobile/
 * Discord -  https://discord.gg/PdCQRmG
 * Facebook - https://www.facebook.com/Sparkleautocare/ 
-* BitcoinTalk - Coming Soon
+* BitcoinTalk - https://bitcointalk.org/index.php?topic=5093939.0
 * Whitepaper - https://drive.google.com/file/d/1XbX49LBM5O2jQqewCFRD8jqjTPKzvkIE/view
 
 #### Market Information
