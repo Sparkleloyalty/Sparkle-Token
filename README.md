@@ -113,13 +113,13 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 
 
 ### Links
-* Website - https://sparklemobile.io/ 
-* Twitter - https://twitter.com/Sparkletoken 
-* Reddit - https://www.reddit.com/r/Sparklemobile/
-* Discord -  https://discord.gg/PdCQRmG
-* Facebook - https://www.facebook.com/Sparkleautocare/ 
-* BitcoinTalk - https://bitcointalk.org/index.php?topic=5093939.0
-* Whitepaper - https://drive.google.com/file/d/1XbX49LBM5O2jQqewCFRD8jqjTPKzvkIE/view
+* [Website](https://sparklemobile.io/) 
+* [Twitter](https://twitter.com/Sparkletoken)
+* [Reddit](https://www.reddit.com/r/Sparklemobile/)
+* [Discord](https://discord.gg/PdCQRmG)
+* [Facebook](https://www.facebook.com/Sparkleautocare/) 
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=5093939.0)
+* [Whitepaper](https://drive.google.com/file/d/1XbX49LBM5O2jQqewCFRD8jqjTPKzvkIE/view)
 
 #### Market Information
 
