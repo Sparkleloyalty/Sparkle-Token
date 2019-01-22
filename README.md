@@ -45,7 +45,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Max supply: 70,000,000 
 * Circulating Supply: 32,830,000 
 * Soft Cap: No Soft Cap Set- Token distribution will start immediately  
-* Hard Cap:  $16,400,000
+* Hard Cap:  69935 ETH
 
 ### Token Distribution
 * Development Treasury: 20%
@@ -66,7 +66,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * End date   & time in UTC: `2019-01-20T12:00:00Z`
 
 * Min (soft) cap in ETH: `No Soft Cap Set- Token distribution will start immediately 
-* Max (hard) cap in ETH: `69935 ETH` 16.4 m USD
+* Max (hard) cap in ETH: `69935 ETH` 
 * Min ETH to invest per one contribution: `1 ETH`
 
 #### Bonus Structure
@@ -82,7 +82,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Start date & time in UTC: `2019-01-21T12:00:00Z` 
 * End date   & time in UTC: `2019-02-10T12:00:00Z` 
 * Min (soft) cap in ETH:`No Soft Cap Set- Token distribution will start immediately 
-* Max (hard) cap in ETH: `69935 ETH` 16.4m USD
+* Max (hard) cap in ETH: `69935 ETH` 
 * Min ETH to invest per one contribution: `0.5 ETH`
 
 #### Bonus Structure
@@ -99,7 +99,7 @@ Sparkle Tokens can be exchanged at any time for SparkleGOLD, which is a stable c
 * Start date & time in UTC: `2019-02-11T12:00:00Z`
 * End date   & time in UTC: `2019-02-28T12:00:00Z`
 * Min (soft) cap in ETH:`No Soft Cap Set- Token distribution will start immediately  
-* Max (hard) cap in ETH: `69935 ETH` 16.4m USD
+* Max (hard) cap in ETH: `69935 ETH` 
 * Min ETH to invest per one contribution: `0.5 ETH`
 
 #### Bonus Structure
