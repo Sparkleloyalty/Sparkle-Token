@@ -1,10 +1,9 @@
-![sprkl](https://user-images.githubusercontent.com/42134382/49962911-759f7200-fecb-11e8-99f2-0485fe304163.png)
-
+![Social-profile-icon](https://user-images.githubusercontent.com/42134382/74387407-af148b80-4db5-11ea-8788-df224aa0bfca.png)
 
 ## Value of Sparkle  
 ![Badge](https://img.shields.io/badge/OpenZepplin-2.0-blue.svg) &nbsp;![Badge](https://img.shields.io/badge/EIPs-ERC--20%20-blue.svg)&nbsp;![badge](https://img.shields.io/badge/Crowdsale-Live-brightgreen.svg)&nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Sparklemobile%20a%20new%20peer%20to%20peer%20currency%20dedicated%20to%20connecting%20users%20with%20quality%20automotive%20detailing.%20New%20Hybrid%20Cloud%20Proof%20of%20Liquidity%20Protocol%20&url=https://sparklemobile.io/tokensale.html&via=Sparkletoken&hashtags=Developers,ERC20,PoL,Protocol,SPRKL,Sparkle)&nbsp;[![Follow](https://img.shields.io/twitter/follow/Sparkletoken.svg?label=Follow&style=social)](https://twitter.com/Sparkletoken)
 
-(SPRKL) is a decentralized permissionless contract, which means that no central entity has the authority to edit the ledger, shut down the network, or change its protocols. Sparkle’s main use case act’s a digital asset that can be transferred, traded, bought and sold. Our tokenized reward structure is based on a smart contract developed on the Etherum network called  POL (Proof of Loyalty), the general purpose of this contract is to give more freedom for recipients to maintain control over their own loyalty while enjoying daily rewards.
+Sparkle (SPRKL) is a decentralized permissionless network, which means that no central entity has the authority to edit the ledger, shut down the chain, or change its protocols. Sparkle’s main use case act’s a digital asset that can be transferred, traded, bought and sold. 
 
 
 #### Tools
